@@ -1,0 +1,17 @@
+.headerimage-sizing{
+    width: 60%;
+    margin: 0 auto 0 auto;
+    padding: 1rem 0 0 0;
+    display: block;
+    border-radius: 10px;
+}
+.container{
+    /* width: 80%; */
+    /* margin: 0 auto; */
+    background-color: rgb(32, 23, 23);
+}
+@media (max-width: 800px) {
+    .headerimage-sizing{
+        width: 70%;
+    }
+}
